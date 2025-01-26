@@ -2,7 +2,9 @@
 
 Este projeto é um simples sorteador de Amigo Secreto desenvolvido com HTML, CSS e JavaScript. Ele permite adicionar nomes de participantes, sortear aleatoriamente um amigo secreto para cada um e exibir os resultados.
 
-![Captura de tela do Sorteador de Amigo Secreto](assets/imagen%20do%20site.png) ## Funcionalidades
+![Captura de tela do Sorteador de Amigo Secreto](assets/imagen%20do%20site.png) 
+
+## Funcionalidades
 
 *   **Adição de Participantes:** Insira o nome de um participante no campo de texto e clique no botão "Adicionar" para incluí-lo na lista de participantes.
 *   **Sorteio Aleatório:** Clique no botão "Sortear amigo" para realizar o sorteio. O sistema garante que ninguém tire o próprio nome.
@@ -33,8 +35,8 @@ Este projeto é um simples sorteador de Amigo Secreto desenvolvido com HTML, CSS
 
 ## Estrutura do Projeto
 
-amigo-secreto/
-├── index.html      // Arquivo principal HTML
-├── style.css       // Arquivos de estilos CSS (opcional)
-└── script.js       // Arquivo com a lógica JavaScript
-└── README.md       // Este arquivo
+    amigo-secreto/
+        ├── index.html      // Arquivo principal HTML
+        ├── style.css       // Arquivos de estilos CSS (opcional)
+        └── script.js       // Arquivo com a lógica JavaScript
+        └── README.md       // Este arquivo
